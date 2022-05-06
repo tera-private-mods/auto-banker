@@ -1,14 +1,10 @@
 {
-	"files": {
-		"README.md": "0d16323f3ce30a5f11162a968e8eaa1f8f63e505237ced157c24878ee1a3ba25",
-		"config_generator.js": "2e9159c03d387bdc4ed24b85cfa732107cb3385c465eb6b35a3db965dc2a3a3c",
-		"index.js": "c796062ae19176656dde34a0c28d889304c40d5c853eb35eb28cf1f8fb02138f",
-		"module.json": "fe48d01683821d050d4ab282b7cf032a67ca1d7e2aa6aa44be8f4e1aef263d97"
-	},
-	"defs": {
-		"C_PUT_WARE_ITEM": 3,
-		"C_VIEW_WARE": 2,
-		"S_REQUEST_CONTRACT": [1,2],
-		"S_VIEW_WARE_EX": [2,3]
-	}
+    "files": {
+        "README.md": "67fb7b9f995a6a93f25aef7ced885f3804df640dd8dd81fb8fd5c0d4dabf1c01",
+        "config_generator.js": "2e9159c03d387bdc4ed24b85cfa732107cb3385c465eb6b35a3db965dc2a3a3c",
+        "defs/C_PUT_WARE_ITEM.3.def": "14e81c44e0a046bd803d8b9f6dc45daf53789f209f70ebd949f90651b4f07f51",
+        "defs/S_VIEW_WARE_EX.2.def": "6065ae099533f68e0b31f1a625ee9659f35cf91c5f76e631496756bb24dc1a0b",
+        "index.js": "ea1a935f9a1a4a05175df378430feb046b34c8fad48eee6debee2ff9f3d44b34",
+        "module.json": "c7eea42c686c2f0fdcb3b99471e4de2accb3d517919534be6b4dfdde9472711a"
+    }
 }
