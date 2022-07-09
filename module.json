@@ -10,7 +10,6 @@
     },
     "author": "Snug / Prav / Seraph",
     "description": "Automatically banks items that exist in both your bank and inventory with minimal set up.",
-    "version": "92.03",
     "servers": ["https://raw.githubusercontent.com/tera-private-mods/auto-banker/master/"],
     "conflicts": ["auto-bank"]
 }
